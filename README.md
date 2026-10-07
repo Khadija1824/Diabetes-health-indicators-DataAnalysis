@@ -14,6 +14,15 @@ Type 2 Diabetes is heavily influenced by a combination of lifestyle habits, body
 
 ---
 
+📊 Key Evaluation Insights
+Body Weight Impact: Median BMI is notably higher among diabetic/prediabetic cohorts, highlighting weight management as a critical indicator.
+
+Hypertension Correlation: High blood pressure shows a heavy overlap with diabetes risk, signifying a strong multi-morbidity link.
+
+Physical Activity Buffer: Regular exercise patterns show an inverse relationship with disease prevalence.
+
+Age-Driven Cumulative Risk: Risk concentrations grow progressively across advancing age brackets.
+
 ## 🛠️ Tech Stack & Requirements
 
 Ensure you have **Python 3.8+** installed. The project relies on the following standard data science and web app libraries:
@@ -26,12 +35,3 @@ Ensure you have **Python 3.8+** installed. The project relies on the following s
 Install all dependencies via terminal:
 ```bash
 pip install pandas numpy matplotlib seaborn streamlit
-
-📊 Key Evaluation Insights
-Body Weight Impact: Median BMI is notably higher among diabetic/prediabetic cohorts, highlighting weight management as a critical indicator.
-
-Hypertension Correlation: High blood pressure shows a heavy overlap with diabetes risk, signifying a strong multi-morbidity link.
-
-Physical Activity Buffer: Regular exercise patterns show an inverse relationship with disease prevalence.
-
-Age-Driven Cumulative Risk: Risk concentrations grow progressively across advancing age brackets.
